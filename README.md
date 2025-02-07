@@ -21,6 +21,8 @@
 **[ 회원 수정 API ]**
 <br><img width="841" alt="스크린샷 2025-02-07 오후 8 26 09" src="https://github.com/user-attachments/assets/e3b22ded-cace-4571-8c6a-f2288c5f39ca" />
 
+<br>
+
 - 수정 후 전체 조회
 <br><img width="299" alt="스크린샷 2025-02-07 오후 8 43 45" src="https://github.com/user-attachments/assets/87754c1b-958c-4c70-9399-401c0e543bac" />
 
