@@ -31,5 +31,9 @@
 
 
 **[ 회원 삭제 API ]**
-<br><img width="840" alt="스크린샷 2025-02-07 오후 8 44 19" src="https://github.com/user-attachments/assets/9b4bc341-8f25-4dc8-9ff1-0b2a1964f877" />
 <br><img width="840" alt="스크린샷 2025-02-07 오후 8 44 06" src="https://github.com/user-attachments/assets/5eae0c07-e951-4751-95d4-a27c8dfe0a84" />
+
+<br>
+
+- 삭제 후 전체 조회
+<br><img width="840" alt="스크린샷 2025-02-07 오후 8 44 19" src="https://github.com/user-attachments/assets/9b4bc341-8f25-4dc8-9ff1-0b2a1964f877" />
