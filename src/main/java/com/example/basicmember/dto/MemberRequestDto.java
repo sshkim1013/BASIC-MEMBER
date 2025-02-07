@@ -4,6 +4,6 @@ import lombok.Getter;
 
 @Getter
 public class MemberRequestDto {
-    private  String name;
+    private String name;
     private Integer age;
 }
